@@ -16,12 +16,7 @@ A lo largo de mi trayectoria académica y personal, he tenido la oportunidad de 
 | Lenguaje / Herramienta | Nivel de Dominio |
 | :--- | :---: |
 | Python | Básico |
-| GitHub | Básico |
 | Html5 | Básico |
-| Virtualbox | Básico |
-| Wazu | Básico |
-| Proxmox | Básico |
-| Shell | Básico |
 
 ---
 
